@@ -47,4 +47,4 @@ EOF
 # === Envoi HTTP
 curl -s -X POST -H "Content-Type: application/json" \
      -H "x-api-key: cle-api-secrete" \
-     -d "$JSON" http://192.168.100.40/api/store_stats.php
+     -d "$JSON" https://admin-panel.glsolution.fr/api/store_stats.php
