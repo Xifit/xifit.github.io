@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="https://xifit.github.io/service.m3u"
+
+#EXTINF:0 tvg-id="1" tvg-logo="https://companieslogo.com/img/orig/TFI.PA-8c6da426.png" tvg-chno="1", TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+
